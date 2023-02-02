@@ -17,10 +17,10 @@ The contents of this repository include the required implementation for reproduc
 ## Installation
 ```
 # clone project
-git clone https://github.com/elidub/FACT.git 
+git clone https://github.com/JonaRuthardt/MLRC-CartoonX.git
 
 # Enter directory
-cd FACT
+cd MLRC-CartoonX
 
 # Create and conda virtual environment
 conda create --name cartoonx python=3.8.8
