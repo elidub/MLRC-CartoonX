@@ -1,5 +1,10 @@
 # On the Reproducibility of CartoonX
 
+
+<p align="center">
+Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse
+</p>
+
 ## Description
 This repository contains the code of *On the Reproducibility of CartoonX*. 
 This project is a reproducibility study of the results presented in *Cartoon Explanations of Image Classifiers*[^1], where they introduced CartoonX (Cartoon Explanations).
