@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse
+*Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse*
 </p>
 
 ## Description
@@ -11,6 +11,12 @@ This project is a reproducibility study of the results presented in *Cartoon Exp
 CartoonX is a rate‐distortion‐based explanation method for image classifiers operating in the wavelet domain to identify the components (i.e. wavelet coefficients) of an image that are most decisive for the model’s prediction. 
 
 The contents of this repository include the required implementation for reproducing the original results and additional extensions. More information on the exact reproducibility and extension experiments can be found in the `experiments` folder. 
+
+<p align="center">
+   <img src="results/experiment2/good_vit_res.png" width = 500> 
+   <br>
+   <text><em>One of the extensions, showing that the CartoonX method is model agnostic. It highlights the same features across a CNN and Vision Transformer architecture.</em></text>
+</p>
 
 ## Code structure
 - `cartoonx` source code [^2] that generates CartoonX and Pixel RDE explanations. This code was adapted for our experiments.
