@@ -2,7 +2,7 @@
 
 
 <p align="center">
-*Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse*
+<em>Authors: Elias Dubbeldam, Aniek Eijpe, Jona Ruthardt, Robin Sasse</p></em>
 </p>
 
 ## Description
